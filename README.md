@@ -7,3 +7,9 @@ The Dijkstra's algorithm is implemented using the function  'dijkstra(graph, sta
 It returns list with 'distances' to each node from the source. 
 
 This list is then used to find the best charging station to go to from the starting node. 
+
+Execution:
+To execute the code, please download the DSA_Final_G8.ipynb along with the data.csv and make sure it is in the same folder as the notebook. 
+Or you can use this link to the collab: https://colab.research.google.com/drive/1JXtlvgqN8jzgFM4euBpzU-AUIBRsFrY2?usp=sharing
+
+
